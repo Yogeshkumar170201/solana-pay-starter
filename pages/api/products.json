@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "OG Emoji pack",
+    "price": "0.11",
+    "description": "Get this fire emoji pack for only $0.11! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmQBDq4vNreH1EwBQqUCdvgxtU6afiFRZsSHNKwYZ1wTVy",
+    "filename": "Emojis.zip",
+    "hash": "QmQBDq4vNreH1EwBQqUCdvgxtU6afiFRZsSHNKwYZ1wTVy"
+  },
+  {
+    "id": 3,
+    "name": "Alright",
+    "price": "0.05",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmX7FY3AD2s7FH8Gq1vuFgdJ7Jxz3XKZBjm85E66RmADXe",
+    "description": "Alright Emoji",
+    "filename": "ok.rar",
+    "hash": "QmfKNPJ2XK1rmZRrxSMi9LjsS5zY6W7Chit6LygecZ3UoR"
+  },
+  {
+    "id": 4,
+    "name": "Pirate Emoji",
+    "price": "0.21",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmctQi7c2uN5zNyBWsK9atadJ56neo1dy3hD76BiHWxVUJ",
+    "description": "It is an emoji of a pirate. It is very unique.",
+    "filename": "pirate.rar",
+    "hash": "QmWzccjzuGkiGVWrxVZfi5TGFHYAAouXAjahd2Jm3xTueu"
+  }
+]
